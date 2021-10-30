@@ -62,6 +62,9 @@ Linear Regression
 -
 https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86
 ![](images/image4.jpeg)
+![](images/image27.png)
+![](images/image28.png)
+
 
 Least Absolute Deviation (LAD) Regression
 -
@@ -88,6 +91,11 @@ https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_multivariable/bs704_multiva
 
  K Nearest Neighbors
  -
+ ![](images/image24.png)
+ ![](images/image25.png)
+ ![](images/image26.png)
+ ![](images/image29.png)
+ 
  
 
 

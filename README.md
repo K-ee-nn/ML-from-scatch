@@ -24,8 +24,7 @@ The following algorithms are implemented till date:
 16. Principal Component Analysis  
 
 # Prerequisites
-scikit-learn algorithm cheat-sheet
--
+
 ![](images/image19.png)
 ![](images/image20.png)
 ![](images/image21.png)
@@ -38,7 +37,8 @@ scikit-learn algorithm cheat-sheet
 # Reinforcement Learning
 
 ![](images/image18.png)
-
+scikit-learn algorithm cheat-sheet
+-
 ![](images/image12.png)
 ![](images/image13.png)
 

@@ -27,3 +27,17 @@ The following algorithms are implemented till date:
 Train Test Split
 -
 ![](images/image1.jpg)
+
+K-Fold Cross Validation
+-
+![](images/image3.png)
+
+Stratified K-Fold Cross Validation
+-
+![](images/image2.png)
+
+Linear Regression 
+-
+![](images/image4.jpeg)
+
+

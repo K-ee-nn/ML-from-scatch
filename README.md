@@ -22,3 +22,8 @@ The following algorithms are implemented till date:
     - Implementation in PyTorch
 15. Random Walk
 16. Principal Component Analysis  
+
+# Prerequisites
+Train Test Split
+-
+![](images/image1.jpg)

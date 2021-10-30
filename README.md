@@ -40,4 +40,21 @@ Linear Regression
 -
 ![](images/image4.jpeg)
 
+Least Absolute Deviation (LAD) Regression
+-
+![](images/image5.jpg)
+
+Multiple Linear Regression
+-
+![](images/image6.png)
+![](images/image7.png)
+![](images/image8.jpg)
+
+Logistic Regression
+-
+![](images/image10.jpeg)
+![](images/image9.png)
+
+
+
 

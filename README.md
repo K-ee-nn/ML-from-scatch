@@ -222,7 +222,7 @@ https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_multivariable/bs704_multiva
  ![](images/c20.png)
  
  # Hope you've found this helpful, thanks!
- -Kenneth
+ -Kenneth Foo
 
  
  

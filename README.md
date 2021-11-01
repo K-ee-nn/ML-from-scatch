@@ -30,6 +30,13 @@ The following algorithms are implemented till date:
 ![](images/image21.png)
 ![](images/image22.png)
 ![](images/image14.png)
+
+Examples of supervised learning:
+![](images/image67.png)
+![](images/image68.png)
+![](images/image69.png)
+![](images/image70.png)
+
 ![](images/image15.png)
 ![](images/image16.png)
 ![](images/image17.png)

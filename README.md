@@ -117,7 +117,19 @@ https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_multivariable/bs704_multiva
  ![](images/image43.png)
  ![](images/image44.png)
  ![](images/image45.png)
-  
+ 
+ Word2Vec
+ -
+ ![](images/image46.png)
+ ![](images/image47.png)
+ ![](images/image48.png)
+ ![](images/image49.png)
+ ![](images/image50.png)
+ ![](images/image51.png)
+ ![](images/image52.png)
+ ![](images/image53.png)
+ ![](images/image54.png)
+ ![](images/image55.png)
  
  
 

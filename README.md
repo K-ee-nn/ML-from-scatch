@@ -29,6 +29,9 @@ The following algorithms are implemented till date:
 ![](images/image20.png)
 ![](images/image21.png)
 ![](images/image22.png)
+
+Supervised Learning
+-
 ![](images/image14.png)
 
 Examples of Supervised Learning:
@@ -38,10 +41,17 @@ Examples of Supervised Learning:
 ![](images/image70.png)
 
 ![](images/image15.png)
+
+Unsupervised Learning
+-
 ![](images/image16.png)
 ![](images/image17.png)
 
-# Reinforcement Learning
+Examples of Unsupervised Learning
+![](images/image71.png)
+
+Reinforcement Learning
+-
 
 ![](images/image18.png)
 scikit-learn algorithm cheat-sheet
@@ -137,6 +147,58 @@ https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_multivariable/bs704_multiva
  ![](images/image53.png)
  ![](images/image54.png)
  ![](images/image55.png)
+ 
+ Word2Vec Implementation in Keras 
+ -
+ ![](images/k1.png)
+ ![](images/k2.png)
+ ![](images/k3.png)
+ ![](images/k4.png)
+ ![](images/k5.png)
+ 
+ Word2Vec Implementation in Pytorch
+ -
+ ![](images/p1.png)
+ ![](images/p2.png)
+ ![](images/p3.png)
+ ![](images/p4.png)
+ ![](images/p5.png)
+ ![](images/p6.png)
+ ![](images/p7.png)
+ ![](images/p8.png)
+ ![](images/p9.png)
+ ![](images/p10.png)
+ ![](images/p11.png)
+ ![](images/p12.png)
+ ![](images/p13.png)
+ ![](images/p14.png)
+ ![](images/p15.png)
+ ![](images/p16.png)
+ ![](images/p17.png)
+ ![](images/p18.png)
+ ![](images/p19.png)
+ ![](images/p20.png)
+ 
+ Random Walk
+ -
+ ![](images/r1.png)
+ ![](images/r2.png)
+ ![](images/r3.png)
+ ![](images/r4.png)
+ ![](images/r5.png)
+ ![](images/r6.png)
+ ![](images/r7.png)
+ ![](images/r8.png)
+ ![](images/r9.png)
+ ![](images/r10.png)
+ ![](images/r11.png)
+ ![](images/r12.png)
+ ![](images/r13.png)
+ ![](images/r14.png)
+ ![](images/r15.png)
+ ![](images/r16.png)
+ 
+ 
  
  
 

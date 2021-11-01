@@ -198,6 +198,33 @@ https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_multivariable/bs704_multiva
  ![](images/r15.png)
  ![](images/r16.png)
  
+ Principal Component Analysis 
+ -
+ ![](images/c1.png)
+ ![](images/c2.png)
+ ![](images/c3.png)
+ ![](images/c4.png)
+ ![](images/c5.png)
+ ![](images/c6.png)
+ ![](images/c7.png)
+ ![](images/c8.png)
+ ![](images/c9.png)
+ ![](images/c10.png)
+ ![](images/c11.png)
+ ![](images/c12.png)
+ ![](images/c13.png)
+ ![](images/c14.png)
+ ![](images/c15.png)
+ ![](images/c16.png)
+ ![](images/c17.png)
+ ![](images/c18.png)
+ ![](images/c19.png)
+ ![](images/c20.png)
+ 
+ # Hope you've found this helpful, thanks!
+ -Kenneth
+
+ 
  
  
  
